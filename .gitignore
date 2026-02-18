@@ -1,0 +1,70 @@
+<<<<<<< HEAD
+# Build folders
+build/
+cmake-build-*/
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+>>>>>>> 555ac60c8c601f1f167f57534ab4f9d468991a66
+
+# Executables
+*.exe
+*.out
+<<<<<<< HEAD
+*.o
+*.obj
+*.dll
+
+#boost library
+/include/boost/
+
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# SSL keys (VERY IMPORTANT for FTP)
+*.pem
+*.key
+*.crt
+/tls_key
+=======
+*.app
+
+# debug information files
+*.dwo
+>>>>>>> 555ac60c8c601f1f167f57534ab4f9d468991a66
+
